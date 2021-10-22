@@ -1,13 +1,11 @@
 "Gamemode"
 {
-	"name"		"Skeleton"
-	"version"	"1.0"
-
-	"author_name"	""
-	"author_email"	""
-	"author_url"	""
+	"base "base
+	"title" "Unfunny shite"
+	"maps" "^gm_"
+	"menusystem" "1"
 	
-	"icon"		""
-	"info"		""
-	"hide"		""
+	"settings"
+
+
 }
